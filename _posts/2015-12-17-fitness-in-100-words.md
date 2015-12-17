@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T19:08:35.985Z'
-dateModified: '2015-12-17T19:08:21.826Z'
+datePublished: '2015-12-17T19:08:55.996Z'
+dateModified: '2015-12-17T19:08:52.428Z'
 title: Fitness in 100 Words
 author: []
 sourcePath: _posts/2015-12-17-fitness-in-100-words.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: fitness-in-100-words/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Fitness in 100 Words
