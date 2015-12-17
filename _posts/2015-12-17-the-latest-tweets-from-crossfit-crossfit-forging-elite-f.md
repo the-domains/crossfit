@@ -22,8 +22,8 @@ description: The latest Tweets from CrossFit (@CrossFit). Forging Elite Fitness.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/CrossFit'
-datePublished: '2015-12-17T19:15:22.360Z'
-dateModified: '2015-12-17T19:14:54.090Z'
+datePublished: '2015-12-17T19:26:33.205Z'
+dateModified: '2015-12-17T19:23:02.141Z'
 title: ''
 sourcePath: _posts/2015-12-17-the-latest-tweets-from-crossfit-crossfit-forging-elite-f.md
 published: true
