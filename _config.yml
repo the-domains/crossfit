@@ -1,6 +1,6 @@
 name: crossfit
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.88111
 typography_spectrum: 0.6565
 title: crossfit
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020304'
-    - '#dedede'
-    - '#e14139'
-    - '#57585c'
-    - '#a19996'
-  brandStrength: 0.5
+    - '#030303'
+    - '#ffffff'
+    - '#7f7e79'
+    - '#455761'
+    - '#ded1ce'
+  brandStrength: 0.25
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
