@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[crossfit]]></title>
         <description><![CDATA[crossfit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crossfit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:03:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 17:12:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crossfit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Complete as many rounds as possible in 20 minutes of:
 15-ft. rope climbs, 2 ascents
@@ -15,9 +15,16 @@
 15-ft. rope climbs, 2 ascents
 20 one-legged squats, alternating
 40 double-unders</h1><p>CrossFit Island Park.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a953adc09191980aa995bf5625d7aba4405a1f9.jpg"></article>]]></description>
-            <link>undefinedthursday-151217/index.html</link>
+            <link>https://thegrid.ai/crossfit/thursday-151217/index.html</link>
             <guid isPermaLink="false">3f75f92c-b00c-48e0-9fd1-aec7288af59c</guid>
             <pubDate>Thu, 17 Dec 2015 17:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.crossfit.com/mt-archive2/c4414186b70d5c8_691689_th.jpeg">]]></description>
+            <link>https://thegrid.ai/crossfit/238d732c-39f9-4794-9fe6-a0a2293073cd/index.html</link>
+            <guid isPermaLink="false">238d732c-39f9-4794-9fe6-a0a2293073cd</guid>
+            <pubDate>Thu, 17 Dec 2015 17:12:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
