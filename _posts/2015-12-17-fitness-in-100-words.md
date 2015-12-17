@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T18:40:48.759Z'
-dateModified: '2015-12-17T18:40:36.699Z'
+datePublished: '2015-12-17T18:42:50.525Z'
+dateModified: '2015-12-17T18:42:46.689Z'
 title: Fitness in 100 Words
 author: []
 authors: []
