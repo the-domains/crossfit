@@ -2,6 +2,7 @@ name: crossfit
 favicon: null
 layout_spectrum: 0.87614
 typography_spectrum: 0.73414
+title: crossfit
 cta:
   domain: null
   bucket: null
