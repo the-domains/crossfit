@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://www.crossfit.com/mt-archive2/009801.html#/comments'
 title: 'CrossFit: Forging Elite Fitness: Thursday 151217'
-datePublished: '2015-12-17T17:26:07.321Z'
-dateModified: '2015-12-17T17:18:27.033Z'
+datePublished: '2015-12-17T19:46:16.173Z'
+dateModified: '2015-12-17T19:45:16.614Z'
 sourcePath: _posts/2015-12-17-crossfit-forging-elite-fitness-thursday-151217.md
 published: true
 inFeed: true
