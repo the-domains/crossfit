@@ -1,29 +1,27 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T18:56:07.139Z'
-dateModified: '2015-12-17T18:56:03.758Z'
+datePublished: '2015-12-17T18:57:24.914Z'
+dateModified: '2015-12-17T18:57:21.077Z'
 title: Fitness in 100 Words
 author: []
+sourcePath: _posts/2015-12-17-fitness-in-100-words.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-fitness-in-100-words.md
-published: true
 url: fitness-in-100-words/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3459027f-1694-48df-b618-5ddd28d2a6d6.jpg)
-
 > Eat meat and vegetables, nuts and seeds, some fruit, little starch and no sugar. Keep intake to levels that will
 > support exercise but not body fat. Practice and train major lifts: deadlift, clean, squat, presses, clean and
 > jerk, and snatch. Similarly, master the basics of gymnastics: pull-ups, dips, rope climbs, push-ups, sit-ups,
@@ -32,3 +30,4 @@ _type: Article
 > enemy. Keep workouts short and intense. Regularly learn and play new sports.
 
 _-Greg Glassman, CrossFit CEO and Founder_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3459027f-1694-48df-b618-5ddd28d2a6d6.jpg)
