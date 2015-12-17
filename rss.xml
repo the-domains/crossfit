@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[crossfit]]></title>
+        <description><![CDATA[crossfit]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 18:39:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fitness in 100 Words]]></title>
+            <description><![CDATA[<article><h1>Fitness in 100 Words</h1><p>-Greg Glassman, CrossFit CEO and Founder</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ea68ce8790551739b573aeaf4befaf6d9ede963.jpg"></article>]]></description>
+            <link>undefinedfitness-in-100-words/index.html</link>
+            <guid isPermaLink="false">eee0938c-95ad-459b-a85c-15221925082d</guid>
+            <pubDate>Thu, 17 Dec 2015 18:39:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
