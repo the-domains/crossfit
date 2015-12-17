@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T19:12:12.409Z'
-dateModified: '2015-12-17T19:12:05.395Z'
+datePublished: '2015-12-17T19:34:36.969Z'
+dateModified: '2015-12-17T19:34:31.933Z'
 title: Fitness in 100 Words
 author: []
 sourcePath: _posts/2015-12-17-fitness-in-100-words.md
@@ -32,4 +32,4 @@ days per week mix these elements in as many combinations and patterns as creativ
 enemy. Keep workouts short and intense. Regularly learn and play new sports.
 
 _Greg Glassman, CrossFit CEO and Founder_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1890166-4824-421f-bbca-d560639a4f76.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/083658184861c2115e73d8896780e455ecfd3b91.jpg)
