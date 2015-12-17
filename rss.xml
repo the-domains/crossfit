@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[crossfit]]></title>
         <description><![CDATA[crossfit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crossfit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 18:39:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 18:41:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crossfit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fitness in 100 Words]]></title>
-            <description><![CDATA[<article><h1>Fitness in 100 Words</h1><p>-Greg Glassman, CrossFit CEO and Founder</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ea68ce8790551739b573aeaf4befaf6d9ede963.jpg"></article>]]></description>
-            <link>undefinedfitness-in-100-words/index.html</link>
+            <description><![CDATA[<article><h1>Fitness in 100 Words</h1><p>-Greg Glassman, CrossFit CEO and Founder</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8833dafbd5832b2727af533d4afa7982d6e438f7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/crossfit/fitness-in-100-words/index.html</link>
             <guid isPermaLink="false">eee0938c-95ad-459b-a85c-15221925082d</guid>
-            <pubDate>Thu, 17 Dec 2015 18:39:08 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 18:40:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
